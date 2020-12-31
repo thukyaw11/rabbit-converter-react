@@ -1,0 +1,14 @@
+.unicode {
+    font-family: "Noto Sans Myanmar";
+}
+
+.zg {
+    font-family: 'Noto Sans Zawgyi';
+}
+
+.unicode,
+.zg {
+    width: 90%;
+    height: 500px;
+    margin: 0 auto;
+}
