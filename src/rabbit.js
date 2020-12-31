@@ -1,8 +1,3 @@
-var Rabbit = {
-  "zg2uni" : zg2uni,
-  "uni2zg": uni2zg
-}
-
 export function uni2zg(output) {
   var rule = [
     {
